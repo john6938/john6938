@@ -17,7 +17,7 @@ I'm a corpus-computational linguist, researcher, and educator based in Japan.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=john6938&theme=darkhub)
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=john6938&theme=github-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=john6938&theme=github-dark)
 
 ---
 
