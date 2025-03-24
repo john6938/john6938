@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**john6938/john6938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👋 Hello, I'm John
 
@@ -30,4 +26,5 @@ I'm a corpus-computational linguist, researcher, and educator based in Japan.
 ![Followers](https://img.shields.io/github/followers/john6938?label=Followers)
 ![Stars](https://img.shields.io/github/stars/john6938?label=Stars)
 
-
+<!--
+**john6938/john6938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
