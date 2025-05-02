@@ -7,9 +7,6 @@ I'm a corpus-computational linguist, researcher, and educator based in Japan.
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john6938&show_icons=true&theme=dark)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=john6938&theme=dark)
-
 ## 🧠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john6938&layout=compact&theme=dark)
 
