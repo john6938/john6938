@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm John
 
-I'm a corpus-computational linguist, researcher, and educator based in Japan.  
+I'm a corpus-computational linguist, researcher, and educator.  
 ---
 
 ## 📊 GitHub Stats
