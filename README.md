@@ -4,6 +4,9 @@
 I'm a corpus-computational linguist, researcher, and educator.  
 ---
 
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=john6938&theme=github-dark)
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john6938&show_icons=true&theme=dark)
 
@@ -53,8 +56,7 @@ I'm a corpus-computational linguist, researcher, and educator.
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=john6938&theme=darkhub)
 
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=john6938&theme=github-dark)
+
 
 ---
 
