@@ -7,12 +7,6 @@ I'm a corpus-computational linguist, researcher, and educator.
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=john6938&theme=github-dark)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john6938&show_icons=true&theme=dark)
-
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john6938&layout=compact&theme=dark)
-
 ## 🛠️ Languages, Tools & Technologies
 
 ### 💻 Programming Languages
